@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\rajan\OneDrive\Desktop\workshop3solution\workshop3\main.c(34,11): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  workshop3.vcxproj -> C:\Users\rajan\OneDrive\Desktop\workshop3solution\x64\Debug\workshop3.exe
